@@ -9,7 +9,7 @@ counter_3bit uut (
     .q(q));
 
 initial begin
-   clk = 0;
+  clk = 0;
   forever #5 clk = ~clk;
 end
   initial begin
