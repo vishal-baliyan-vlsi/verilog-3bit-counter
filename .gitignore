@@ -1,0 +1,17 @@
+# Icarus / ModelSim / VCS / simulation files
+*.vcd
+*.wlf
+*.vpd
+*.log
+*.txt
+*.exe
+
+# Editor / IDE files
+*.swp
+.vscode/
+.idea/
+*.bak
+
+# OS generated files
+.DS_Store
+Thumbs.db
