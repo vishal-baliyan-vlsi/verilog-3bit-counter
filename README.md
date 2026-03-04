@@ -13,7 +13,7 @@ Waveform verified for correct binary count sequence.
 
 ## Tools Used
 - Verilog HDL
-- (erdi
+- verdi
 
 ## Author
 Vishal Baliyan
